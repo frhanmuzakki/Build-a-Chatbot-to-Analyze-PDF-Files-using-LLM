@@ -14,4 +14,7 @@ Mentee assignment from IBM Advance AI @Infinite Learning Course (Cognitiveclass.
 - Flask
 - LLM
 - GitHub
+- JavaScript
+- HTML
+- CSS
 ## I really enjoyed this course
